@@ -3,7 +3,7 @@
 
 def display_board(board)
   board = [" X ", " X ", "X ", "   ", " X ", "   ", " X ", " O ", "   "]
-  puts row = [" X ""|" " X " "|" "X "]
+  puts row = [" X ""|" " X " "|" " X "]
   puts separator = "-----------"
   puts row = ["   " "|" " X " "|" "  "]
   puts separator = "-----------"
