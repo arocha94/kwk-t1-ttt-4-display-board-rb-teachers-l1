@@ -2,8 +2,8 @@
 # out the current state.
 
 def display_board(board)
-  board = [" O ", " X ", "   ", "   ", " X ", "   ", " X ", " O ", "   "]
-  puts row = [" O ""|" " X " "|" "   "]
+  board = [" X ", " X ", "X ", "   ", " X ", "   ", " X ", " O ", "   "]
+  puts row = [" X ""|" " X " "|" "X "]
   puts separator = "-----------"
   puts row = ["   " "|" " X " "|" "  "]
   puts separator = "-----------"
