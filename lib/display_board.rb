@@ -4,9 +4,9 @@
 def display_board(board)
   puts row = [" " "|" " O " "|" " X "]
   puts separator = "-----------"
-  puts row = [" X " "|" " O " "|" " O "]
+  puts row 
   puts separator = "-----------"
-  puts row = 
+  puts row  
 end 
 
 
