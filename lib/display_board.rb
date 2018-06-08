@@ -2,11 +2,11 @@
 # out the current state.
 
 def display_board(board)
-  puts row = [" " "|" " O " "|" " X "]
-  puts separator = "-----------"
-  puts row 
-  puts separator = "-----------"
-  puts row  
+  puts "#{board[0]} " "|" "#{board[0]}" "|" "#{board[0]}"
+  puts "-----------"
+  puts "#{board[0]} " "|" "#{board[0]}" "|" "#{board[0]}"
+  puts "-----------"
+  puts "#{board[0]} " "|" "#{board[0]}" "|" "#{board[0]}"
 end 
 
 
