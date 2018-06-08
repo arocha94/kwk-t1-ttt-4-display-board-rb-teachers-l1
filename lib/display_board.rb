@@ -7,7 +7,7 @@ def display_board(board)
   puts #{board}
 end
 
-def display_boardz(board)
+def display_boardz
   puts row = ["   " "|" "   " "|" "   "]
   puts separator = "-----------"
   puts row 
